@@ -1,2 +1,7 @@
 #!/usr/bin/python3
-def add(a, b): return a + 
+
+# function that adds two integers.
+# returns the sum
+
+def add(a, b):
+    return (a + b)
